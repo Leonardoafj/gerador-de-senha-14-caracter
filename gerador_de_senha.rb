@@ -1,8 +1,3 @@
-
-# puts "What is your gender ?"
-# puts "Choose in (M/F)."
-# sex = gets.chomp
-# puts (sex == "f" ? "Feminino" : "Masculino")
 senha = []
 letras = []
 numeros = []
